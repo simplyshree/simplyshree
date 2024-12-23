@@ -1,11 +1,8 @@
-## Hi there 👋
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=simplyshree&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=simplyshree&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=simplyshree&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--
-**simplyshree/simplyshree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- <b>🌱 Chilling </b>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
--->
