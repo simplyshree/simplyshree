@@ -1,8 +1,1 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=simplyshree&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=simplyshree&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=simplyshree&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+![g](https://github.com/user-attachments/assets/e3858593-418b-40bf-9e11-86a5399017ca)
