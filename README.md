@@ -1,9 +1,4 @@
-<h2>More about me </h2>
 
-
-> 📍 Delhi, India
-
-> 💻Biotech + CSE
 
 
 ### 👩🏽‍💻 I’m interested in:
