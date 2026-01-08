@@ -14,13 +14,7 @@ analytics, coding, and real-world applications.
 
 <hr>
 
-<h3>🔧 What I’m Working On</h3>
-<ul>
-  <li>Electrocardiogram (ECG) signal processing and feature extraction</li>
-<li>Machine learning & DL applications in biomedical and engineering</li>
 
-  
-</ul>
 
 <p>
 Thanks for visiting <strong>SG’s Space</strong> 🚀
