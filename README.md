@@ -5,7 +5,7 @@
 
 <h2> Hi, I’m SG 👩🏽‍💻</h2>
 
-<p>
+<!--<p>
 I’m interested in data analysis, signal-processing, and machine learning,
 with a focus on building meaningful and interpretable models.
 I enjoy turning data into insights and working on projects that combine
