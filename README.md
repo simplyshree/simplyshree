@@ -5,6 +5,5 @@
 
 <p> Hi, I’m SG 👩🏽‍💻</p>
 
-![](https://komarev.com/ghpvc/?username=simplyshree)
 
 
