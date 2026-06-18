@@ -3,7 +3,7 @@
 </p> -->
 
 <div align="center">
-<img width="550" height="301" alt="Studio Ghibli film, MY NEIGHBOR TOTORO (1988)_" src="https://github.com/user-attachments/assets/87f582f6-f23e-4d94-bf17-abbc876fc897" />
+<img width="550" height="270" alt="Studio Ghibli film, MY NEIGHBOR TOTORO (1988)_" src="https://github.com/user-attachments/assets/87f582f6-f23e-4d94-bf17-abbc876fc897" />
 </div>
 
 
